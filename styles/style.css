@@ -2,7 +2,8 @@ body,
 html {
   height: 100%;
   margin: 0;
-  font-size: .8em;  
+  font-size: .8em; 
+  width: 100%; 
 }
 
 #app {
@@ -158,6 +159,10 @@ nav {
   display: flex;
   justify-content: space-evenly;
   border-top: solid 1px black;
+  position: fixed;
+  bottom: 0;
+  background-color: #d63b2f;
+  width: 100%;
 }
 
 nav a {
@@ -167,4 +172,10 @@ nav a {
   width: 3rem;
   height: 3rem;
   background-color: black;
+}
+header{
+  position: fixed;
+  top:0;
+  width: 100%;
+  background-color: #ffffff;
 }
