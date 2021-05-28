@@ -43,7 +43,7 @@ header{
   justify-content: space-between;
   width: 100%;
   height: 3rem;
-  border-bottom: solid 2px #d63b2f;
+  border-bottom: solid 2px #1DBF73;
 }
 
 .box_stories {
@@ -140,7 +140,7 @@ main {
   min-width: 100%;
   height: 100%;
   overflow-y: auto;
-  background-color: pink;  
+  background-color: #E16F7C;  
 }
 .post-content::-webkit-scrollbar {
   display: none;
@@ -158,7 +158,7 @@ nav {
   height: 3rem;
   display: flex;
   justify-content: space-evenly;
-  border-top: solid 1px black;
+  border-top: solid 1px #1DBF73;
   position: fixed;
   bottom: 0;
   background-color: #1DBF73;
