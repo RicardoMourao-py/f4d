@@ -177,5 +177,30 @@ header{
   position: fixed;
   top:0;
   width: 100%;
+  height: 3rem;
   background-color: #ffffff;
+}
+main{
+  margin-top: 3rem;
+}
+.nome_projeto{
+  margin-top: 1rem;
+  text-align: center;
+}
+.imagem_projeto{
+  display:flex;
+  justify-content: center;
+}
+/* ARRUMAR - O LOGO NÃO ESTÁ CENTRALIZANDO*/
+.f4d_logo{
+  display: flex;
+  justify-content: center;
+}
+.valor_projeto{
+  text-align: center;
+  margin: 0.5rem;
+}
+.botoes_projeto{
+  display: flex;
+  justify-content: center;
 }
