@@ -189,6 +189,7 @@ main{
   margin-top: 3rem;
 }
 .nome_projeto{
+  font-size: 1.5rem;
   margin: 1rem;
   text-align: center;
   color: white;
@@ -199,10 +200,16 @@ main{
   margin: 0.5rem;
 }
 .texto_projeto{
+  font-size: 1rem;
   margin: 1rem;
   color: black;
 }
+.informacoes{
+  padding: 0.5rem;
+  background-color: #e2d2d2;
+}
 .valor_projeto{
+  font-size: 1.5rem;
   text-align: center;
   margin: 0.5rem;
   color: black;
@@ -212,17 +219,27 @@ main{
   justify-content: center;
 
 }
-.informacoes{
+.informacoes h1{
+  font-size: 1.5rem;
+  margin: 1rem;
+  display: flex;
+  justify-items: center;
+  background-color: rgb(30, 179, 79);
   padding: 0.5rem;
-  background-color: #e2d2d2;
+  border-radius: 10%;
+}
+#recusar{
+  background-color: red;
 }
 .nav_home{
   display: flex;
   align-items: center;
 }
-/*Estilo para o botão*/
-button{
-  color: #000;
+.nav_home h1{
+  font-size: 1rem;
+  color:rgb(40, 230, 236);
+  background-color: #338f64;
+  padding: 0.5rem;
 }
 img{
   border-radius: 50%;
