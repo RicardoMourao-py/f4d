@@ -204,3 +204,7 @@ main{
   display: flex;
   justify-content: center;
 }
+.nav_home{
+  display: flex;
+  align-items: center;
+}
