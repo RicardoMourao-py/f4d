@@ -45,6 +45,9 @@ header{
   height: 3rem;
   border-bottom: solid 2px #1DBF73;
 }
+header h1{
+  margin: auto;
+}
 
 .box_stories {
   display: flex;
@@ -140,7 +143,7 @@ main {
   min-width: 100%;
   height: 100%;
   overflow-y: auto;
-  background-color: #E16F7C;  
+  background-color: #eeeeee;  
 }
 .post-content::-webkit-scrollbar {
   display: none;
@@ -149,7 +152,9 @@ main {
 .post {
   min-height: 80%;
   margin-bottom: 10px;
-  background-color: #fff;
+  border-radius: 5%;
+  margin: 2rem;
+  background-color: #E16F7C;
   box-shadow: 0px 3px 6px -3px #212529;
 }
 
@@ -184,27 +189,41 @@ main{
   margin-top: 3rem;
 }
 .nome_projeto{
-  margin-top: 1rem;
+  margin: 1rem;
   text-align: center;
+  color: white;
 }
 .imagem_projeto{
   display:flex;
   justify-content: center;
+  margin: 0.5rem;
 }
-/* ARRUMAR - O LOGO NÃO ESTÁ CENTRALIZANDO*/
-.f4d_logo{
-  display: flex;
-  justify-content: center;
+.texto_projeto{
+  margin: 1rem;
+  color: black;
 }
 .valor_projeto{
   text-align: center;
   margin: 0.5rem;
+  color: black;
 }
 .botoes_projeto{
   display: flex;
   justify-content: center;
+
+}
+.informacoes{
+  padding: 0.5rem;
+  background-color: #e2d2d2;
 }
 .nav_home{
   display: flex;
   align-items: center;
+}
+/*Estilo para o botão*/
+button{
+  color: #000;
+}
+img{
+  border-radius: 50%;
 }
