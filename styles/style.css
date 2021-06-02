@@ -3,7 +3,8 @@ html {
   height: 100%;
   margin: 0;
   font-size: .8em; 
-  width: 100%; 
+  width: 100%;
+  overflow: hidden; 
 }
 
 #app {
@@ -87,6 +88,8 @@ main {
   flex-direction: column;    
   background: cyan;
   height: 100%;
+  margin-top: 3rem;
+  overflow: hidden;
 }
 
 /* Área e lista de stories*/
@@ -144,6 +147,7 @@ main {
   height: 100%;
   overflow-y: auto;
   background-color: #eeeeee;  
+  margin-bottom: 6rem;
 }
 .post-content::-webkit-scrollbar {
   display: none;
@@ -184,9 +188,6 @@ header{
   width: 100%;
   height: 3rem;
   background-color: #ffffff;
-}
-main{
-  margin-top: 3rem;
 }
 .nome_projeto{
   font-size: 1.5rem;
