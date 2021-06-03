@@ -67,6 +67,13 @@ main {
   margin: 2rem;
   background: linear-gradient(90deg, #9ebd13 0%, #008552 100%);
 }
+.post_portifolio{
+  min-height: 80%;
+  margin-bottom: 10px;
+  border-radius: 5%;
+  margin: 2rem;
+  background-color: #1DBF73;
+}
 .nome_projeto{
   font-family: 'Roboto', sans-serif;
   font-size: 1.5rem;
@@ -145,6 +152,14 @@ img{
   margin: 1rem;
   display: flex;
   justify-content: center;
+}
+.titulo_perfil{
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.5rem;
+  margin: 1rem;
+  display: flex;
+  justify-content: center;
+  color:white;
 }
 .enviar{
   font-family: 'Roboto', sans-serif;
