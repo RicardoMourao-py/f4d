@@ -3,12 +3,14 @@ let dados = {
     "p1": {
         "nome": "Padaria",
         "valor": "100,00",
-        "proposta": "Tenho um portal com anunciantes no ramo de festas e nele uma ferramenta chamada cotação express."
+        "proposta1": "Tenho um portal com anunciantes no ramo de festas e nele uma ferramenta chamada cotação express.",
+        "proposta2": "O objetivo deste projeto é aperfeiçoar este sistema.",
+        "proposta3": "O visitante que vai organizar uma festa, preenche um formulario único com seus dados e os dados da festa, e essa cotação é enviada por e-mail aos anunciantes selecionados"
     },
     "p2":{
         "nome": "Açogue",
         "valor": "10,00",
-        "proposta": "O visitante que vai organizar uma festa, preenche um formulario único com seus dados e os dados da festa, e essa cotação é enviada por e-mail aos anunciantes selecionados"
+        "proposta": "O visitante que vai organizar uma festa, preenche um formulario único com seus dados e os dados da festa, e essa cotação é enviada por e-mail aos anunciantes selecionados",
     },
     "p3":{
         "nome": "Material de Construção",
