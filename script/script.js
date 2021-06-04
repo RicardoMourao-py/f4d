@@ -1,3 +1,5 @@
 document.addEventListener("DOMContentLoaded",function(){
-    coDesReplace(".valor_projeto",data["proposta"]["p1"])
+    console.log(dados)
+    coDesReplace(".valor_projeto",dados["propostas"]["p1"])
+
 })

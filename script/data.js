@@ -1,8 +1,8 @@
-var dados = {
+let dados = {
     "propostas": {
     "p1": {
         "nome": "Padaria",
-        "valor": "15,00",
+        "valor": "100,00",
         "proposta": "Tenho um portal com anunciantes no ramo de festas e nele uma ferramenta chamada cotação express."
     },
     "p2":{
