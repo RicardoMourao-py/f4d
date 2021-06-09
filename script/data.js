@@ -8,24 +8,32 @@ let dados = {
         "proposta3": "O visitante que vai organizar uma festa, preenche um formulario único com seus dados e os dados da festa, e essa cotação é enviada por e-mail aos anunciantes selecionados"
     },
     "p2":{
-        "nome": "Açogue",
+        "nome": "Açougue",
         "valor": "10,00",
-        "proposta": "O visitante que vai organizar uma festa, preenche um formulario único com seus dados e os dados da festa, e essa cotação é enviada por e-mail aos anunciantes selecionados",
+        "proposta1": "O visitante que vai organizar uma festa, preenche um formulario único com seus dados e os dados da festa, e essa cotação é enviada por e-mail aos anunciantes selecionados",
+        "proposta2": "O objetivo deste projeto é aperfeiçoar este sistema.",
+        "proposta3": "O visitante que vai organizar uma festa, preenche um formulario único com seus dados e os dados da festa, e essa cotação é enviada por e-mail aos anunciantes selecionados"
     },
     "p3":{
         "nome": "Material de Construção",
         "valor": "100,00",
-        "proposta": "O objetivo deste projeto é aperfeiçoar este sistema."
+        "proposta1": "O visitante que vai organizar uma festa, preenche um formulario único com seus dados e os dados da festa, e essa cotação é enviada por e-mail aos anunciantes selecionados",
+        "proposta2": "O objetivo deste projeto é aperfeiçoar este sistema.",
+        "proposta3": "O visitante que vai organizar uma festa, preenche um formulario único com seus dados e os dados da festa, e essa cotação é enviada por e-mail aos anunciantes selecionados"
     },
     "p4":{
         "nome": "Pet Shop",
         "valor": "50,00",
-        "proposta": "Gostaria que o profissional sugerisse e aplicasse sugestões para tornar este processo mais intuitivo e simples ao visitante."
+        "proposta1": "O visitante que vai organizar uma festa, preenche um formulario único com seus dados e os dados da festa, e essa cotação é enviada por e-mail aos anunciantes selecionados",
+        "proposta2": "O objetivo deste projeto é aperfeiçoar este sistema.",
+        "proposta3": "O visitante que vai organizar uma festa, preenche um formulario único com seus dados e os dados da festa, e essa cotação é enviada por e-mail aos anunciantes selecionados"
     },
     "p5":{
         "nome": "Loja de doces",
         "valor": "25,00",
-        "proposta": "O objetivo deste projeto é aperfeiçoar este sistema."
+        "proposta1": "O visitante que vai organizar uma festa, preenche um formulario único com seus dados e os dados da festa, e essa cotação é enviada por e-mail aos anunciantes selecionados",
+        "proposta2": "O objetivo deste projeto é aperfeiçoar este sistema.",
+        "proposta3": "O visitante que vai organizar uma festa, preenche um formulario único com seus dados e os dados da festa, e essa cotação é enviada por e-mail aos anunciantes selecionados"
     }
     }
 }
