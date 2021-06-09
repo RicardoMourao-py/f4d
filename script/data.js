@@ -16,10 +16,10 @@ let dados = {
     },
     "p3":{
         "nome": "Padaria",
-        "valor": "100,00",
-        "proposta1": "O visitante que vai organizar uma festa, preenche um formulario único com seus dados e os dados da festa, e essa cotação é enviada por e-mail aos anunciantes selecionados",
-        "proposta2": "O objetivo deste projeto é aperfeiçoar este sistema.",
-        "proposta3": "O visitante que vai organizar uma festa, preenche um formulario único com seus dados e os dados da festa, e essa cotação é enviada por e-mail aos anunciantes selecionados"
+        "valor": "250,00",
+        "proposta1": "Tenho uma padaria recém formada e pretendo anunciar os produtos em um site ou app.",
+        "proposta2": "O objetivo deste projeto é a criação desse site.",
+        "proposta3": "O visitante poderá entrar no aplicativo e reservar seu pedido para buscar na padaria ou pedir por delivery e o entregador irá em sua casa."
     },
     "p4":{
         "nome": "Aplicativo para Pet Shop",
@@ -31,9 +31,9 @@ let dados = {
     "p5":{
         "nome": "Loja de doces",
         "valor": "25,00",
-        "proposta1": "O visitante que vai organizar uma festa, preenche um formulario único com seus dados e os dados da festa, e essa cotação é enviada por e-mail aos anunciantes selecionados",
-        "proposta2": "O objetivo deste projeto é aperfeiçoar este sistema.",
-        "proposta3": "O visitante que vai organizar uma festa, preenche um formulario único com seus dados e os dados da festa, e essa cotação é enviada por e-mail aos anunciantes selecionados"
+        "proposta1": "Tenho um site em que o meu cliente pode escolher um produto da minha loja, se cadastrar para receber promoções e conversar com a minha loja de maneira mais fácil.",
+        "proposta2": "Temos interesse neste projeto, pois queremos nos conectar de uma forma bem mais simples com os nossos clientes, em que tenhamos um próprio site para a venda e a entrega de mercadorias.",
+        "proposta3": "O cliente irá entrar no site e poderá olhar o cardápio. Se ele se interessar pelo produto, poderá selecioná-lo. Posteriormente, ele poderá colocar sua localização de endereço e calcular quanto custa o frete até sua casa. No próprio site ele poderá cadastrar seu cartão de crédito para a forma de pagamento."
     }
     }
 }
