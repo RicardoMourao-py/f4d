@@ -30,7 +30,7 @@ let dados = {
     },
     "p5":{
         "nome": "Loja de doces",
-        "valor": "25,00",
+        "valor": "250,00",
         "proposta1": "Tenho um site em que o meu cliente pode escolher um produto da minha loja, se cadastrar para receber promoções e conversar com a minha loja de maneira mais fácil.",
         "proposta2": "Temos interesse neste projeto, pois queremos nos conectar de uma forma bem mais simples com os nossos clientes, em que tenhamos um próprio site para a venda e a entrega de mercadorias.",
         "proposta3": "O cliente irá entrar no site e poderá olhar o cardápio. Se ele se interessar pelo produto, poderá selecioná-lo. Posteriormente, ele poderá colocar sua localização de endereço e calcular quanto custa o frete até sua casa. No próprio site ele poderá cadastrar seu cartão de crédito para a forma de pagamento."
