@@ -24,12 +24,12 @@ header{
   background-color: #ffffff;
 }
 header h1{
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Antic Slab', serif;
   font-size: 1.5rem;
   margin: auto;
 }
 header h2{
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Antic Slab', serif;
   font-size: 1rem;
   margin: auto;
 }
@@ -75,7 +75,7 @@ main {
   background-color: #1DBF73;
 }
 .nome_projeto{
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Antic Slab', serif;
   font-size: 1.5rem;
   margin: 1rem;
   text-align: center;
@@ -97,6 +97,7 @@ img{
   color: black;
 }
 .informacoes{
+  font-family: 'Exo', sans-serif;
   padding: 0.5rem;
   background-color: rgb(230, 238, 238);
 }
@@ -111,7 +112,7 @@ img{
 }
 
 .valor_projeto{
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Antic Slab', serif;
   font-size: 1rem;
   text-align: center;
   margin: 1rem;
@@ -125,6 +126,7 @@ img{
 }
 /* Botões do Card*/
 .botoes_projeto{
+  font-family: 'Exo', sans-serif;
   display: flex;
   justify-content: center;
 
@@ -138,7 +140,7 @@ img{
   border-radius: 5%;
 }
 .aceitar{
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Exo', sans-serif;
   font-size: 1rem;
   background-color: #1DBF73;
   text-decoration: none;
@@ -148,13 +150,14 @@ img{
 }
 /* Configurações das páginas sem card*/
 .titulo_pagina{
+  font-family: 'Exo', sans-serif;
   font-size: 1rem;
   margin: 1rem;
   display: flex;
   justify-content: center;
 }
 .titulo_perfil{
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Antic Slab', serif;
   font-size: 1.5rem;
   margin: 1rem;
   display: flex;
@@ -162,7 +165,7 @@ img{
   color:white;
 }
 .enviar{
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Exo', sans-serif;
   padding: 1rem;
   font-size: 1rem;
   text-decoration: none;
@@ -170,7 +173,7 @@ img{
   background: linear-gradient(90deg, #9ebd13 0%, #008552 100%);
 }
 .voltar{
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Exo', sans-serif;
   padding: 1rem;
   font-size: 1rem;
   text-decoration: none;
@@ -182,6 +185,7 @@ img{
   justify-content: center;
 }
 .select_type{
+  font-family: 'Exo', sans-serif;
   padding: 1rem;
   display: flex;
   justify-content: center;
@@ -196,6 +200,7 @@ img{
   justify-content: center;
 }
 .perfil_display {
+  font-family: 'Exo', sans-serif;
   display:flex;
   flex-direction:row;
   justify-content: center;
@@ -207,6 +212,7 @@ img{
   text-decoration: none;
 }
 .lista_cursos{
+  font-family: 'Exo', sans-serif;
   display:flex;
   flex-direction: column;
   margin: 1rem;
@@ -216,6 +222,7 @@ img{
   color:black;
 }
 .lista_cursos_dev{
+  font-family: 'Exo', sans-serif;
   display:flex;
   flex-direction: column;
   align-items: center;
@@ -232,6 +239,7 @@ img{
   color:white;
 }
 .tipos_dev{
+  font-family: 'Exo', sans-serif;
   display:flex;
   flex-direction: row;
   justify-content: center;
@@ -278,7 +286,7 @@ nav a {
   align-items: center;
 }
 .nav_home a{
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Exo', sans-serif;
   text-decoration: none;
   font-size: 1rem;
   display: flex;

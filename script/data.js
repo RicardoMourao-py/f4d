@@ -9,10 +9,10 @@ let dados = {
     },
     "p2":{
         "nome": "Construtora",
-        "valor": "10,00",
-        "proposta1": "O visitante que vai organizar uma festa, preenche um formulario único com seus dados e os dados da festa, e essa cotação é enviada por e-mail aos anunciantes selecionados",
-        "proposta2": "O objetivo deste projeto é aperfeiçoar este sistema.",
-        "proposta3": "O visitante que vai organizar uma festa, preenche um formulario único com seus dados e os dados da festa, e essa cotação é enviada por e-mail aos anunciantes selecionados"
+        "valor": "350,00",
+        "proposta1": "Preciso de um website para minha construtora.",
+        "proposta2": "Preciso de um website responsivo, com no mínimo uma págian inicial, uma página para contato e uma página sobre a empresa.",
+        "proposta3": "O cliente deve poder ver os projetos mais recentes da construtora e os projetos que serão inaugurados em breve."
     },
     "p3":{
         "nome": "Padaria",
